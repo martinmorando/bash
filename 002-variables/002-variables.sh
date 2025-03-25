@@ -17,7 +17,7 @@ readonly code=007
 
 # Reassign
 name="James Bond"
- 
+
 
 
 # [PRINT VARIABLES]
@@ -26,3 +26,20 @@ echo "His name is $name and the code is $code."
 
 # - Variable substitution does NOT work with single quotes ('')
 echo 'His name is $name and the code is $code.'
+
+
+
+# [COMMAND SUBSTITUTION]
+# - Alternative A: save in variable with $(cmd)
+currentDirA=$(pwd)
+echo "The currently directory is $currentDirA"
+
+# - Alternative B: print directly with $(cmd)
+echo "The currently directory is $(pwd)"
+
+# - Alternative C: save in variable with `cmd`
+currentDirC=`pwd`
+echo "The currently directory is $currentDirC"
+
+# - Alternative D: print directly with `cmd`
+echo "The currently directory is `pwd`"
