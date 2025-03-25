@@ -4,10 +4,10 @@
 # Logic
 #
 
-she_says="The teacher says you won't be able do it"
+she_says="The teacher says you won't be able to do it"
 
 # Conditional
-if [ "$she_says" = "The teacher says you won't be able do it" ]; then
+if [ "$she_says" = "The teacher says you won't be able to do it" ]; then
     i_reply="The teacher can f*ck off"
 else
     i_reply=""
