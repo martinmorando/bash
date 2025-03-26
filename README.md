@@ -1,4 +1,4 @@
-# Bash
+# Notes, Code, and Experiments with Bash
 
 ## Quick Overview
 - Bash: **B**ourne **A**gain **SH**ell
