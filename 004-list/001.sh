@@ -2,7 +2,7 @@
 
 #
 # List
-# -> ls [options]
+# ls [options]
 #
 
 
