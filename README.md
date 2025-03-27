@@ -5,12 +5,18 @@
 - Used in Linux and macOS
 - Is the default shell of several Linux distributions
 
-
 ## Motivations for Mastering Bash
 - Automate repetitive tasks with Bash scripts
 - Versatile tool for software development and exploring cybersecurity topics
 
-
 ## Running Bash Scripts
 1. Give execute permission: `chmod +x ./file.sh`
 2. Run the script: `./file.sh`
+
+## Commands Covered (some options missing)
+- Print Working Directory (pwd)
+- List (ls)
+- Make directory (mkdir)
+- Change directory (cd)
+- Touch
+- Concatenate (cat)
