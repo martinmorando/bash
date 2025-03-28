@@ -15,14 +15,17 @@ ls
 # -a (all): includes hidden files (those starting with a dot)
 ls -a
 
-# -l (long format): includes permissions, modification date and other details
+# -l (long format): includes the permissions, modification date and other details
 ls -l
 
-# -t (time): sort by last modification time
+# -t (time): sorts by last modification time
 ls -t
 
-# -S (size): sort by size
+# -S (size): sorts by size
 ls -S
+
+# Combine them
+ls -alt
 
 
 
