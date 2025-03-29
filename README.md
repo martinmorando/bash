@@ -15,6 +15,7 @@
 
 ## Commands Covered (some options missing)
 - Print Working Directory (pwd)
+- Echo
 - List (ls)
 - Make directory (mkdir)
 - Change directory (cd)
