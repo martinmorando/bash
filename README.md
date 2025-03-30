@@ -19,5 +19,6 @@
 - List (ls)
 - Make directory (mkdir)
 - Change directory (cd)
+- Copy (cp)
 - Touch
 - Concatenate (cat)
