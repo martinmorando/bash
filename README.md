@@ -14,11 +14,13 @@
 2. Run the script: `./file.sh`
 
 ## Commands Covered (some options missing)
-- Print Working Directory (pwd)
-- Echo
-- List (ls)
-- Make directory (mkdir)
-- Change directory (cd)
-- Copy (cp)
-- Touch
-- Concatenate (cat)
+| Name                    | Command  |
+|-------------------------|----------|
+| Print Working Directory | pwd      |
+| Echo                    | echo     |
+| List                    | ls       |
+| Make Directory          | mkdir    |
+| Change Directory        | cd       |
+| Copy                    | cp       |
+| Touch                   | touch    |
+| Concatenate             | cat      |
