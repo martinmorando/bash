@@ -22,5 +22,7 @@
 | Make Directory          | mkdir    |
 | Change Directory        | cd       |
 | Copy                    | cp       |
+| Move                    | mv       |
+| Remove                  | rm       |
 | Touch                   | touch    |
 | Concatenate             | cat      |
