@@ -27,3 +27,4 @@
 | Touch                           | touch    |
 | Concatenate                     | cat      |
 | Global Regular Expression Print | grep     |
+| Word Count                      | wc       |
