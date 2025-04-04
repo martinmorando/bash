@@ -14,17 +14,17 @@
 2. Run the script: `./file.sh`
 
 ## Commands Covered (some options missing)
-| Name                            | Command  |
-|---------------------------------|----------|
-| Print Working Directory         | pwd      |
-| Echo                            | echo     |
-| List                            | ls       |
-| Make Directory                  | mkdir    |
-| Change Directory                | cd       |
-| Copy                            | cp       |
-| Move                            | mv       |
-| Remove                          | rm       |
-| Touch                           | touch    |
-| Concatenate                     | cat      |
-| Global Regular Expression Print | grep     |
-| Word Count                      | wc       |
+| Name                            | Command  | Options        |
+|---------------------------------|----------|----------------|
+| Print Working Directory         | pwd      |                | 
+| Echo                            | echo     |                | 
+| List                            | ls       | -a, -l, -t, -S | 
+| Make Directory                  | mkdir    | -v, -m         | 
+| Change Directory                | cd       |                | 
+| Copy                            | cp       |                | 
+| Move                            | mv       |                | 
+| Remove                          | rm       | -r             | 
+| Touch                           | touch    |                | 
+| Concatenate                     | cat      | -n             | 
+| Global Regular Expression Print | grep     | -i, -c         | 
+| Word Count                      | wc       | -l, -w, -c     | 
