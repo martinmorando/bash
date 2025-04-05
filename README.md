@@ -16,7 +16,8 @@
 ## Commands Covered (some options missing)
 | Name                            | Command  | Options        |
 |---------------------------------|----------|----------------|
-| Print Working Directory         | pwd      |                | 
+| Print Working Directory         | pwd      |                |
+| Manual                          | man      | -K             | 
 | Echo                            | echo     |                | 
 | List                            | ls       | -a, -l, -t, -S | 
 | Make Directory                  | mkdir    | -v, -m         | 
