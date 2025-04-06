@@ -20,8 +20,4 @@ echo "Forever, Laura, forever" > notes.txt
 echo "Forever" >> notes.txt
 
 # Notes:
-# - The ">" is the "output redirection operator" and redirects the output
-# of a command to a file instead of displaying it on the terminal.
-# 
-# - The ">>" is the "append rediction operator" and is similar to ">" only
-# it appends, not overwrites.
+# - See redict-input-output
