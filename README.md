@@ -29,3 +29,4 @@
 | Concatenate                     | cat      | -n             | 
 | Global Regular Expression Print | grep     | -i, -c         | 
 | Word Count                      | wc       | -l, -w, -c     | 
+| History                         | history  |                | 
