@@ -24,7 +24,8 @@
 | Change Directory                | cd       |                | 
 | Copy                            | cp       |                | 
 | Move                            | mv       |                | 
-| Remove                          | rm       | -r             | 
+| Remove                          | rm       | -r             |
+| Remove Directory                | rmdir    |                | 
 | Touch                           | touch    |                | 
 | Concatenate                     | cat      | -n             | 
 | Global Regular Expression Print | grep     | -i, -c         | 
