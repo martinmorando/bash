@@ -18,7 +18,8 @@
 |---------------------------------|----------|----------------|
 | Manual                          | man      | -K             |
 | Print Working Directory         | pwd      |                | 
-| Echo                            | echo     |                | 
+| Echo                            | echo     |                |
+| Print Formatted                 | printf   |                | 
 | List                            | ls       | -a, -l, -t, -S | 
 | Make Directory                  | mkdir    | -v, -m         | 
 | Change Directory                | cd       |                | 
