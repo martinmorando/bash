@@ -33,3 +33,4 @@
 | Word Count                      | wc       | -l, -w, -c     | 
 | History                         | history  |                | 
 | Clear                           | clear    |                |
+| Head                            | head     | -n             |
