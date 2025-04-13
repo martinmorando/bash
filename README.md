@@ -35,3 +35,4 @@
 | Clear                           | clear    |                |
 | Head                            | head     | -n             |
 | Tail                            | tail     | -n             |
+| Basic Calculator                | bc       |                |
