@@ -36,3 +36,4 @@
 | Head                            | head     | -n             |
 | Tail                            | tail     | -n             |
 | Basic Calculator                | bc       |                |
+| More                            | more     | -n             |
