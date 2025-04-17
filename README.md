@@ -37,3 +37,4 @@
 | Tail                            | tail     | -n             |
 | Basic Calculator                | bc       |                |
 | More                            | more     | -n             |
+| Less                            | less     | -N             |
