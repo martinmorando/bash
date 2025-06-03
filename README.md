@@ -38,3 +38,4 @@
 | Basic Calculator                | bc       |                |
 | More                            | more     | -n             |
 | Less                            | less     | -N             |
+| Sort                            | sort     | -r, -u         |
